@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390386681633",
+    "project_id": "tacoclout-47ae3",
+    "storage_bucket": "tacoclout-47ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390386681633:android:819e887ea2d00291daa060",
+        "android_client_info": {
+          "package_name": "com.tococlout.brarijeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390386681633-d74cdbul1623lcjh8j8g8v9fm72hvgq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ToEcQlZIExrDiiGFF1ARboMgJ5mQmQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390386681633-d74cdbul1623lcjh8j8g8v9fm72hvgq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

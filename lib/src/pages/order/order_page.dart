@@ -1,0 +1,29 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:get/get.dart';
+import 'package:mailto/mailto.dart';
+import 'package:shuppy/src/helpers/colors.dart';
+import 'package:shuppy/src/helpers/snack_toast.dart';
+import 'package:shuppy/src/pages/order/widgets/build_order_history.dart';
+import 'package:shuppy/src/widgets/custom_elevated_button.dart';
+import 'package:shuppy/src/widgets/custom_fade_transtition.dart';
+import 'package:shuppy/src/widgets/custom_text_button.dart';
+import 'package:timeline_tile/timeline_tile.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+import '../../helpers/constants.dart';
+import '../../helpers/local_data.dart';
+import '../../models/order_model.dart';
+import '../../models/product_model.dart';
+import '../../widgets/custom_app_bar.dart';
+import '../../widgets/custom_price_text.dart';
+import '../../widgets/custom_shake_transtition.dart';
+import '../../widgets/empty_section.dart';
+
+part 'screen/order_detail_screen.dart';
+part 'screen/order_history_screen.dart';
+part 'widgets/build_order_item.dart';
+part 'widgets/build_product_order_card.dart';
+part 'widgets/build_product_order_list.dart';
+part 'widgets/build_timeline_order.dart';

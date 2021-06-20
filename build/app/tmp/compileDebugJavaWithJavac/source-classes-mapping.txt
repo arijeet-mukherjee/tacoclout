@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/byneetdev/shuppy/BuildConfig.java
+ com.byneetdev.shuppy.BuildConfig

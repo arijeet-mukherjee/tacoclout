@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="678d40c2-e38f-43c2-9223-5157c283b552" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/helpers/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/helpers/colors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/helpers/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/helpers/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/helpers/local_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/helpers/local_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/helpers/route_util.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/helpers/route_util.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/models/arguments_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/models/arguments_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/models/favorite_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/models/favorite_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/models/user_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/models/user_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/cart/cart_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/cart/cart_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/cart/screens/cart_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/cart/screens/cart_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/cart/widgets/build_cart_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/cart/widgets/build_cart_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/category/category_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/category/category_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/category/screens/category_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/category/screens/category_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/category/widgets/category_circle_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/category/widgets/category_circle_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/favorite/favorite_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/favorite/favorite_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/favorite/widgets/build_product_grid_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/favorite/widgets/build_product_grid_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/forgot_password/screens/forgot_password_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/forgot_password/screens/forgot_password_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/widgets/build_label_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/widgets/build_label_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/widgets/build_product_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/widgets/build_product_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/widgets/category_circle_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/widgets/category_circle_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/widgets/category_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/widgets/category_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/home/widgets/scrollable_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/home/widgets/scrollable_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/product_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/product_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/screens/browse_product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/screens/browse_product_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/screens/product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/screens/product_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/widgets/body_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/widgets/body_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/widgets/build_floating_action_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/widgets/build_floating_action_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/widgets/build_product_grid_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/widgets/build_product_grid_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/product/widgets/header_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/product/widgets/header_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/profile/profile_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/profile/profile_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/profile/widgets/body_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/profile/widgets/body_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/sign_in/screens/sign_in_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/sign_in/screens/sign_in_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/sign_in/sign_in_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/sign_in/sign_in_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/sign_up/screens/sign_up_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/sign_up/screens/sign_up_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/sign_up/sign_up_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/sign_up/sign_up_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/splash/screens/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/splash/screens/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/pages/splash/splash_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/pages/splash/splash_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/providers/forgot_password_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/providers/forgot_password_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/providers/providers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/providers/providers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/providers/sign_in_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/providers/sign_in_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/providers/sign_up_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/providers/sign_up_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tOjM39yXV1GCOjZHAoleW7dPnp" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/aurdino/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678d40c2-e38f-43c2-9223-5157c283b552" name="Default Changelist" comment="" />
+      <created>1622646978580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622646978580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1488" height="226" key="GridCell.Tab.0.bottom" timestamp="1623507989667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1488" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1623507989667" />
+    <state width="1488" height="226" key="GridCell.Tab.0.center" timestamp="1623507989667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1488" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1623507989667" />
+    <state width="1488" height="226" key="GridCell.Tab.0.left" timestamp="1623507989667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1488" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1623507989667" />
+    <state width="1488" height="226" key="GridCell.Tab.0.right" timestamp="1623507989667">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1488" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1623507989667" />
+    <state x="358" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1623822940607">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="358" y="198" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1623822940607" />
+  </component>
+</project>
