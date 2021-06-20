@@ -1,6 +1,6 @@
 # Tacoclout
 
-A new Flutter project.
+A new BigCartel project.
 
 ## Getting Started
 
